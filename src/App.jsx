@@ -27,8 +27,8 @@ import ExampleView from './Views/ExampleView';
 // const Settings = lazy(() => import('./Views/Settings'));
 
 // constants
-const HEADER_TITLE = 'HEADER_TITLE goes here';
-const FOOTER = 'FOOTER goes here';
+const HEADER_TITLE = 'Welcome to Dizzland';
+const FOOTER = 'All rights are reserved.';
 const defualtFooterSeen = {};
 // TODO: footer fetched from online source
 function App() {

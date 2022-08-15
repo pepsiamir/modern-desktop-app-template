@@ -55,7 +55,7 @@
     },
     "windows": [
       {
-        "title": "tauri.conf.json Dizz Land",
+        "title": "Dizz Land",
         "label": "main",
         "minWidth": 1000,
         "minHeight": 600,
